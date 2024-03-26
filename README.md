@@ -1,4 +1,4 @@
-# Data-Structure
+# Python Text Game
 One of my projects developed during my course in USP SME0827
 
 The project description was the following 
